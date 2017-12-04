@@ -1,0 +1,1 @@
+server.js只是post请求，main_server.js还包含从form.html跳转到www文件夹下的lanmeidada.html

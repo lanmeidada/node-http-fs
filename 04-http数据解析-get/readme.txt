@@ -1,0 +1,1 @@
+server2.js是用到node的querystring,server3.js是用到node的url，server3.js是相对于前两个更方便。
